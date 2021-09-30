@@ -1,0 +1,13 @@
+{
+    "name":"Jokenzia",
+    "version":"0.0.1",
+    "manifest_version":2,
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"Jokenzia.png"
+    },
+    "icons":{
+        "128":"Jokenzia.png"
+    },
+    "permissions":["activeTab"]
+}
